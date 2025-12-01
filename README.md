@@ -2,9 +2,6 @@
 **A Human–Computer Interaction Project | SLIIT – Y3S1**  
 **Group Name:** AntiCheat Alliance  
 
-https://drive.google.com/file/d/1Cgb6YAy4mehNLTG8QiYnlgyIaT2D0WlC/view
-https://drive.google.com/file/d/1Cgb6YAy4mehNLTG8QiYnlgyIaT2D0WlC/view
-https://drive.google.com/file/d/1YzefJa1ePhyxWCpwNiWkN4r15e-K01E-/view
 ---
 
 ## 🚀 Project Overview
@@ -13,6 +10,14 @@ PunkBuster is a long-standing anti-cheat engine used in multiplayer games. Altho
 Across Assignments 1, 2, and 3, our goal was to **identify usability issues, understand user needs, and redesign the entire PunkBuster experience** using strong HCI and UX methodologies.
 
 This repository includes the full UX workflow — from **user research → low-fidelity wireframes → high-fidelity prototypes**.
+
+[IT3060HCI2025 - Assignment 1 - WE - Y3 - S1- 03.pdf](https://drive.google.com/file/d/1Cgb6YAy4mehNLTG8QiYnlgyIaT2D0WlC/view)
+[IT3060HCI2025 - Assignment 2 - WE - Y3 - S1- 03.pdf](https://drive.google.com/file/d/1Cgb6YAy4mehNLTG8QiYnlgyIaT2D0WlC/view)
+[IT3060HCI2025 - Assignment 3 - WE - Y3 - S1- 03.pdf](hhttps://drive.google.com/file/d/1YzefJa1ePhyxWCpwNiWkN4r15e-K01E-/view)
+
+
+
+
 
 ---
 
