@@ -12,11 +12,10 @@ Across Assignments 1, 2, and 3, our goal was to **identify usability issues, und
 This repository includes the full UX workflow — from **user research → low-fidelity wireframes → high-fidelity prototypes**.
 
 [IT3060HCI2025 - Assignment 1 - WE - Y3 - S1- 03.pdf](https://drive.google.com/file/d/1Cgb6YAy4mehNLTG8QiYnlgyIaT2D0WlC/view)
+
 [IT3060HCI2025 - Assignment 2 - WE - Y3 - S1- 03.pdf](https://drive.google.com/file/d/1Cgb6YAy4mehNLTG8QiYnlgyIaT2D0WlC/view)
-[IT3060HCI2025 - Assignment 3 - WE - Y3 - S1- 03.pdf](hhttps://drive.google.com/file/d/1YzefJa1ePhyxWCpwNiWkN4r15e-K01E-/view)
 
-
-
+[IT3060HCI2025 - Assignment 3 - WE - Y3 - S1- 03.pdf](https://drive.google.com/file/d/1YzefJa1ePhyxWCpwNiWkN4r15e-K01E-/view)
 
 
 ---
